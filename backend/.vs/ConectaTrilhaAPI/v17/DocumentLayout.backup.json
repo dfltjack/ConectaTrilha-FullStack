@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bejac\\Desktop\\TCC\\ConectaTrilha-FullStack\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{271CED95-C2A3-4EBA-9549-1390BA8D8691}|API\\API.csproj|c:\\users\\bejac\\desktop\\tcc\\conectatrilha-fullstack\\backend\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{271CED95-C2A3-4EBA-9549-1390BA8D8691}|API\\API.csproj|solutionrelative:api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{271CED95-C2A3-4EBA-9549-1390BA8D8691}|API\\API.csproj|c:\\users\\bejac\\desktop\\tcc\\conectatrilha-fullstack\\backend\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{271CED95-C2A3-4EBA-9549-1390BA8D8691}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{271CED95-C2A3-4EBA-9549-1390BA8D8691}|API\\API.csproj|c:\\users\\bejac\\desktop\\tcc\\conectatrilha-fullstack\\backend\\api\\dtos\\accountdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{271CED95-C2A3-4EBA-9549-1390BA8D8691}|API\\API.csproj|solutionrelative:api\\dtos\\accountdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{271CED95-C2A3-4EBA-9549-1390BA8D8691}|API\\API.csproj|c:\\users\\bejac\\desktop\\tcc\\conectatrilha-fullstack\\backend\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{271CED95-C2A3-4EBA-9549-1390BA8D8691}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{271CED95-C2A3-4EBA-9549-1390BA8D8691}|API\\API.csproj|c:\\users\\bejac\\desktop\\tcc\\conectatrilha-fullstack\\backend\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{271CED95-C2A3-4EBA-9549-1390BA8D8691}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{271CED95-C2A3-4EBA-9549-1390BA8D8691}|API\\API.csproj|c:\\users\\bejac\\desktop\\tcc\\conectatrilha-fullstack\\backend\\api\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{271CED95-C2A3-4EBA-9549-1390BA8D8691}|API\\API.csproj|solutionrelative:api\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D36C5D0-0CDB-43A8-A95A-A7BBDC22F609}|Infra\\Infra.csproj|c:\\users\\bejac\\desktop\\tcc\\conectatrilha-fullstack\\backend\\infra\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D36C5D0-0CDB-43A8-A95A-A7BBDC22F609}|Infra\\Infra.csproj|solutionrelative:infra\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{271CED95-C2A3-4EBA-9549-1390BA8D8691}|API\\API.csproj|c:\\users\\bejac\\desktop\\tcc\\conectatrilha-fullstack\\backend\\api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{271CED95-C2A3-4EBA-9549-1390BA8D8691}|API\\API.csproj|solutionrelative:api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bejac\\Desktop\\TCC\\ConectaTrilha-FullStack\\backend\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\bejac\\Desktop\\TCC\\ConectaTrilha-FullStack\\backend\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-18T18:28:23.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bejac\\Desktop\\TCC\\ConectaTrilha-FullStack\\backend\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\bejac\\Desktop\\TCC\\ConectaTrilha-FullStack\\backend\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T17:48:25.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountDtos.cs",
+              "DocumentMoniker": "C:\\Users\\bejac\\Desktop\\TCC\\ConectaTrilha-FullStack\\backend\\API\\DTOs\\AccountDtos.cs",
+              "RelativeDocumentMoniker": "API\\DTOs\\AccountDtos.cs",
+              "ToolTip": "C:\\Users\\bejac\\Desktop\\TCC\\ConectaTrilha-FullStack\\backend\\API\\DTOs\\AccountDtos.cs",
+              "RelativeToolTip": "API\\DTOs\\AccountDtos.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T20:46:13.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\bejac\\Desktop\\TCC\\ConectaTrilha-FullStack\\backend\\API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\bejac\\Desktop\\TCC\\ConectaTrilha-FullStack\\backend\\API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "API\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwEIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T20:42:32.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\bejac\\Desktop\\TCC\\ConectaTrilha-FullStack\\backend\\API\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\bejac\\Desktop\\TCC\\ConectaTrilha-FullStack\\backend\\API\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "API\\Controllers\\PostsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T20:43:57.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\bejac\\Desktop\\TCC\\ConectaTrilha-FullStack\\backend\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\bejac\\Desktop\\TCC\\ConectaTrilha-FullStack\\backend\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-17T21:15:32.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\bejac\\Desktop\\TCC\\ConectaTrilha-FullStack\\backend\\API\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\bejac\\Desktop\\TCC\\ConectaTrilha-FullStack\\backend\\API\\Services\\TokenService.cs",
+              "RelativeToolTip": "API\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T20:40:33.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\bejac\\Desktop\\TCC\\ConectaTrilha-FullStack\\backend\\Infra\\DataContext.cs",
+              "RelativeDocumentMoniker": "Infra\\DataContext.cs",
+              "ToolTip": "C:\\Users\\bejac\\Desktop\\TCC\\ConectaTrilha-FullStack\\backend\\Infra\\DataContext.cs",
+              "RelativeToolTip": "Infra\\DataContext.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T17:18:50.324Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

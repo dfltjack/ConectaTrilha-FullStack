@@ -1,0 +1,25 @@
+# .NET / Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+/bin/
+/obj/
+/Properties/PublishProfiles/
+/Properties/launchSettings.json
+.vs/
+
+# Node.js / Expo
+/node_modules/
+.expo/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/dist/
+.idea/
+.vscode/settings.json
+
+# Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db
